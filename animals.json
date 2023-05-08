@@ -1,0 +1,20 @@
+{
+  "dogs" : [{
+    "id": 0,
+    "name": "maja",
+    "race": "dog"
+  }, {
+    "id": 1,
+    "name": "milus",
+    "race": "dog"
+  }],
+  "cats": [{
+    "id": 0,
+    "name": "chilli",
+    "race": "cat"
+  }, {
+    "id": 1,
+    "name": "novak",
+    "race": "cat"
+  }]
+}
